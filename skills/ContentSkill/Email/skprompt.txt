@@ -1,0 +1,1 @@
+Write a {{$input}} email. The email content has only one paragraph
